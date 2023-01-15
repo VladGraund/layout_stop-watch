@@ -1,0 +1,2 @@
+.secund-line{height:300px;width:2px;background-color:#0c79bc;transform:rotate(0deg);transform-origin:0 0;animation:seconds 60s linear infinite}.minute-line,.secund-line{position:absolute;top:356px;left:766px}.minute-line{height:200px;width:6px;background-color:#bc0c5e;transform-origin:0 0;animation:seconds 3600s linear infinite}.circle{position:absolute;top:346px;left:753px;border-radius:50%;background-color:#0c79bc;width:22px;height:22px}@keyframes seconds{0%{transform:rotate(180deg)}to{transform:rotate(540deg)}}
+/*# sourceMappingURL=main.758cb1d9.css.map */
